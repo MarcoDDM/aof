@@ -1,6 +1,8 @@
 # AoF 2.0- 
 
-<img align="center" href="/soyMarco.png />
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/43345162/211918401-a6cdae06-17b4-475e-9feb-14e5f0a3f754.png">
+</p>
 
 This is a project for a dating advice infoproduct. Is a responsive web, with a payment processor and upsales on the same web. Also a download protected page.
 
