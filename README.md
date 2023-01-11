@@ -1,14 +1,12 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# AoF 2.0- 
 
-# Project Name
+<img align="center" href="/soyMarco.png />
 
-> Description the project.
-
+This is a project for a dating advice infoproduct. Is a responsive web, with a payment processor and upsales on the same web. Also a download protected page.
 
 ## Built With
 
-- Major languages
-- Frameworks
+- HTML, CSS, JS
 - Technologies used
 
 ## Live Demo (if available)
@@ -16,41 +14,16 @@
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@MarcoDDM](https://github.com/MarcoDDM)
+- Twitter: [@nerdpiola](https://twitter.com/nerdpiola)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/marcoalmadaar)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
